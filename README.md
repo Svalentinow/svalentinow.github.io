@@ -2,7 +2,7 @@
 
  Hello!
  
-![screenshot](Resized_20220310_143411.jpeg){: width="250" } <br />
+<br /> ![screenshot](Resized_20220310_143411.jpeg){: width="250" } <br />
  My name is Stephen Williams. Interested in AI and gaming
 # [LinkedIn](https://www.linkedin.com/in/stephen-williams-7843271a3/)
 # [Github](https://github.com/Svalentinow)
