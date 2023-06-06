@@ -1,14 +1,8 @@
-* {
-    display: flex;
-    text-align: center;
-    line-height: 1.5em;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    font-weight: 300;
-    padding: 0 2em;
-}
+
 body {
     background-color: red;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
   }
   
