@@ -18,5 +18,8 @@
   text-align: center;
 }
 
-
+.pic{
+  position: relative;
+  top: 600px;
+}
 
