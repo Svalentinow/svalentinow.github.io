@@ -16,3 +16,7 @@
   margin-right: auto;
   text-align: center;
 }
+
+.paragraph{
+    max-width: 800px;
+}
