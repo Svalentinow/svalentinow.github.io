@@ -6,7 +6,9 @@
 }
 
 body {
-      background-color: #FAA0A0;
+      background-image: url("redbackground.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
     }
 .mainBodySection {
   margin-left: auto;
