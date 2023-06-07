@@ -20,3 +20,11 @@
 .paragraph{
     max-width: 800px;
 }
+#selfie{
+   display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-image: url('me.jpg');
+    background-size: contain;
+  
+}
