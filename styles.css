@@ -11,15 +11,19 @@
   top: 700px;
 
 }
+.paragraph{
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
 .contactBodySection{
   margin-left: auto;
   margin-right: auto;
   text-align: center;
 }
 
-.paragraph{
-    max-width: 800px;
-}
+
 /* #selfie{
    display: inline-block;
     width: 200px;
