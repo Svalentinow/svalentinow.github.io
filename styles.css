@@ -20,12 +20,12 @@
 
 
 #selfie{
-   display: inline-block;
-    width: 200px;
-    height: 200px;
-    background-image: url('me.jpg');
-    background-size: contain;
-    top: 700px;
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background-image: url('me.jpg');
+  background-size: contain;
+  top: 700px;
   
 }
 
