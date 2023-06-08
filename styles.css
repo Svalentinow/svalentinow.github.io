@@ -39,4 +39,26 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
     }
+#about .contactButtons{
+    margin: 1em;
+}
 
+#about .contactButtons a{
+    display: inline-block;
+    margin: 0 0.5em;
+    font-size: 20px;
+}
+#about .contactButtons a:last-child,
+#about .contactButtons a:nth-last-child(2){
+    margin-top: 2em;
+    border: 1px solid white;
+    border-radius: 0.2em;
+    padding: 0.5em 1em;
+    color: white;
+}
+
+#about .contactButtons a:hover{
+    cursor: pointer;
+    color: black;
+    border-color: black;
+}
