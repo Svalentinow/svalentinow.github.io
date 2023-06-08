@@ -1,15 +1,16 @@
-*{
-    padding: 0;
-    margin: 0;
-    font-family: 'Roboto';
-    color: white;
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Roboto';
+  color: white;
 }
 
 body {
-      background-image: url("redbackground.jpg");
-      background-size: cover;
-      background-repeat: no-repeat;
-    }
+  background-image: url("redbackground.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .mainBodySection {
   margin-left: auto;
   margin-right: auto;
@@ -17,49 +18,53 @@ body {
   position: relative;
   top: 500px;
   max-width: 800px
-
 }
-.contactBodySection{
+
+.contactBodySection {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
 }
+
 .image-container {
   margin-left: auto;
   margin-right: auto;
   position: relative;
   top: 400px;
   width: 100px;
-  height:100px;
+  height: 100px;
   margin-bottom: 30px;
-    
-    }
+
+}
+
 .image-container img {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-    }
-#about .contactButtons{
-    margin: 1em;
 }
 
-#about .contactButtons a{
-    display: inline-block;
-    margin: 0 0.5em;
-    font-size: 20px;
+#about .contactButtons {
+  margin: 1em;
 }
+
+#about .contactButtons a {
+  display: inline-block;
+  margin: 0 0.5em;
+  font-size: 20px;
+}
+
 #about .contactButtons a:last-child,
-#about .contactButtons a:nth-last-child(2){
-    margin-top: 2em;
-    border: 1px solid white;
-    border-radius: 0.2em;
-    padding: 0.5em 1em;
-    color: white;
+#about .contactButtons a:nth-last-child(2) {
+  margin-top: 2em;
+  border: 1px solid white;
+  border-radius: 0.2em;
+  padding: 0.5em 1em;
+  color: white;
 }
 
-#about .contactButtons a:hover{
-    cursor: pointer;
-    color: black;
-    border-color: black;
+#about .contactButtons a:hover {
+  cursor: pointer;
+  color: black;
+  border-color: black;
 }
