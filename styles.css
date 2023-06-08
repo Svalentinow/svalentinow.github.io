@@ -16,6 +16,7 @@ body {
   text-align: center;
   position: relative;
   top: 500px;
+  max-width: 800px
 
 }
 .contactBodySection{
